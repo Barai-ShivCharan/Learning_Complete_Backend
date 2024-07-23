@@ -7,9 +7,10 @@ const commands = [
   },
 ];
 
-const rest = new REST({ version: "10" }).setToken(
-  "MTI2MDkwMDc3MzExMDQ4NTAyMg.GPuusi.irxN05isASFMCeZTUZ_RU9eKesZYpjB4enrhAA"
-);
+const rest = new REST({ version: "10" })
+  .setToken
+  // "set here token/
+  ();
 try {
   console.log("Started refreshing application (/) commands.");
 

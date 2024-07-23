@@ -26,6 +26,7 @@ client.on("interactionCreate", (interaction) => {
   interaction.reply("Pong!!");
 });
 
-client.login(
-  "MTI2MDkwMDc3MzExMDQ4NTAyMg.GPuusi.irxN05isASFMCeZTUZ_RU9eKesZYpjB4enrhAA"
-);
+client
+  .login
+  // "set here token"
+  ();
