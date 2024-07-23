@@ -1,0 +1,17 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "\"Learning Rest API's in this session\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "ShivCharan-Barai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0",
+    "nodemon": "^3.1.4"
+  }
+}

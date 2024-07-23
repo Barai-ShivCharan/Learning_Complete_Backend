@@ -1,0 +1,12 @@
+{
+  "name": "lec-4-modules",
+  "version": "1.0.0",
+  "description": "\"Learning Modules in Lec-4\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "ShivCharan-Barai",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "lec-5-fs-modules",
+  "version": "1.0.0",
+  "description": "\"Learning File System Handling in this session\"",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon file.js"
+  },
+  "author": "ShivCharan-Barai",
+  "license": "ISC"
+}

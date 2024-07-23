@@ -1,0 +1,28 @@
+WE Already study about REST API"S theory Part in LEc-12
+
+
+Desiging REST API's  -JSON
+
+GET/users  - HTML Document Render
+GEt/api/users -List all users JSON -Done // Above to get/user & get/api/users are making hybrid server
+
+
+
+
+GET/users/:id Get a single user
+GEt/users/1 - Get the user with ID 1
+GEt/users/2  - Get the user with ID 2
+
+Dynamic Path Parameters
+GET/api/users/:id
+:id-->This is variable
+
+
+
+POST/users  -->  Create a new user
+
+PUT/users  -->  Update an existing user
+
+DELETE/users  -->  Delete a user by id
+
+DELETE/users/1  -->  Delete a user with ID 1

@@ -1,0 +1,14 @@
+{
+  "name": "lec-27-project-creating-discord-bot",
+  "version": "1.0.0",
+  "description": "\"Creating a Discord Bot in Nodejs\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ShivCharan-Barai",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}

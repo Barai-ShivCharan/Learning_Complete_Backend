@@ -1,0 +1,17 @@
+{
+  "name": "auth2cookies",
+  "version": "1.0.0",
+  "description": "\"Learning Authentication Authorization and COokies Set Bcrypt\"",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ShivCharan Barai",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
